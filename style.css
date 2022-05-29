@@ -1,0 +1,23 @@
+.cat-1{
+    background: linear-gradient(#eb923a,#f4c91c);
+}
+.cat-2{
+    background: linear-gradient(#ec3b81,#ec4087);
+}
+.cat-3{
+    background: linear-gradient(#4579f9,#3910f4);
+}
+.cat-1,.cat-2,.cat-3{
+    border-radius: 10px;
+}
+.cmn-btn{
+    background: #e93279;
+    font-weight: 500;
+    color: #fff;
+}
+.cmn-btn:hover{
+    color: #e93279;
+}
+.Newsletter{
+    background: #e93279;
+}
